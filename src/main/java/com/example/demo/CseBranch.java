@@ -9,7 +9,7 @@ public class CseBranch {
 	
 	@GetMapping("/course")
 	public String project() {
-		return "Project enabled";
+		return "Project enabled successfully";
 	}
 	
 }
